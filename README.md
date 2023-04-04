@@ -1,4 +1,4 @@
-### Hi there :frog:
+### Hey there :frog:
 
 I am Quadeer Shaikh, an AI practitioner and researcher. I have a Masters Degree in AI and a Bachelors Degree in Computer Engineering. 
 
@@ -13,6 +13,6 @@ I am Quadeer Shaikh, an AI practitioner and researcher. I have a Masters Degree 
 - [Linkedin](https://www.linkedin.com/in/quadeer-shaikh/)
 - [Kaggle](https://www.kaggle.com/quadeer15sh)
 
-[![Quadeer's Github Stats](https://github-readme-stats.vercel.app/api?username=quadeer15sh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Quadeer's Github Stats](https://github-readme-stats.vercel.app/api?username=quadeer15sh&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=quadeer15sh)](https://github.com/anuraghazra/github-readme-stats)
