@@ -1,12 +1,12 @@
 ### Hey there :frog:
 
-I am Quadeer Shaikh, an AI practitioner and researcher. I have a Masters Degree in AI and a Bachelors Degree in Computer Engineering. 
+I am Quadeer Shaikh, I am an AI practitioner and researcher. I have a Masters Degree in AI and a Bachelors Degree in Computer Engineering. 
 
 ## My Top Repos :computer:
+- [GANForge](https://github.com/quadeer15sh/GANForge)
 - [Real Time Face Recognition](https://github.com/quadeer15sh/Real-Time-Face-Recognition)
 - [Concurrent Video Processing Pipeline](https://github.com/quadeer15sh/Concurrent-Video-Processing-Pipeline)
 - [Audio Enhancement and Denoising](https://github.com/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders)
-- [DemystiPy](https://github.com/quadeer15sh/DemystiPy)
 - [Image Caption Generator](https://github.com/quadeer15sh/Flickr8K-Image-Captioning)
 
 ## Other Places to Follow Me :point_down:
